@@ -105,20 +105,18 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 
 ---
 
-# ✅ Solved Problems Tracker
-
-| Status | Problem | Topic | Difficulty |
-|---|---|---|---|
-| ✅ | concatenation-of-array | Arrays | Easy |
-| ⬜ | contains-duplicate | Arrays & Hashing | Easy |
-| ⬜ | valid-anagram | Arrays & Hashing | Easy |
-| ⬜ | two-sum | Arrays & Hashing | Easy |
-| ⬜ | group-anagrams | Arrays & Hashing | Medium |
-| ⬜ | top-k-frequent-elements | Arrays & Hashing | Medium |
-| ⬜ | encode-and-decode-strings | Arrays & Hashing | Medium |
-| ⬜ | product-of-array-except-self | Arrays & Hashing | Medium |
-| ⬜ | valid-sudoku | Arrays & Hashing | Medium |
-| ⬜ | longest-consecutive-sequence | Arrays & Hashing | Medium |
+| Status | Problem | Topic | Difficulty | Pattern / Concept | Date Solved |
+|---|---|---|---|---|---|
+| ✅ | concatenation-of-array | Arrays | Easy | Array Traversal | 2026-05-08 |
+| ⬜ | contains-duplicate | Arrays & Hashing | Easy | HashSet | |
+| ⬜ | valid-anagram | Arrays & Hashing | Easy | Frequency Count / HashMap | |
+| ⬜ | two-sum | Arrays & Hashing | Easy | HashMap Lookup | |
+| ⬜ | group-anagrams | Arrays & Hashing | Medium | HashMap + Sorting | |
+| ⬜ | top-k-frequent-elements | Arrays & Hashing | Medium | Heap / Bucket Sort | |
+| ⬜ | encode-and-decode-strings | Arrays & Hashing | Medium | String Encoding | |
+| ⬜ | product-of-array-except-self | Arrays & Hashing | Medium | Prefix & Suffix Arrays | |
+| ⬜ | valid-sudoku | Arrays & Hashing | Medium | Matrix + HashSet | |
+| ⬜ | longest-consecutive-sequence | Arrays & Hashing | Medium | HashSet Sequence | |
 
 ---
 
