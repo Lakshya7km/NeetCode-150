@@ -108,15 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Status | Problem | Topic | Difficulty | Pattern / Concept | Date Solved |
 |---|---|---|---|---|---|
 | ✅ | concatenation-of-array | Arrays | Easy | Array Traversal | 2026-05-08 |
-| ⬜ | contains-duplicate | Arrays & Hashing | Easy |  | |
-| ⬜ | valid-anagram | Arrays & Hashing | Easy |   | |
-| ⬜ | two-sum | Arrays & Hashing | Easy |  | |
-| ⬜ | group-anagrams | Arrays & Hashing | Medium |  | |
-| ⬜ | top-k-frequent-elements | Arrays & Hashing | Medium |  | |
-| ⬜ | encode-and-decode-strings | Arrays & Hashing | Medium |  | |
-| ⬜ | product-of-array-except-self | Arrays & Hashing | Medium |  | |
-| ⬜ | valid-sudoku | Arrays & Hashing | Medium |  | |
-| ⬜ | longest-consecutive-sequence | Arrays & Hashing | Medium |  | |
+
 
 ---
 
