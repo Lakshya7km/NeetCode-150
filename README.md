@@ -105,10 +105,11 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 
 ---
 
-| Status | Problem | Topic | Difficulty | Pattern / Concept | Date Solved |
-|---|---|---|---|---|---|
-| ✅ | concatenation-of-array | Arrays | Easy | Array Traversal | 2026-05-08 |
-| ✅ | contains-duplicate | Arrays | Easy | HashSet| 2026-05-09 |
+| Status | Problem | Platform | Topic | Difficulty | Pattern / Concept | Date Solved | Revision |
+|---|---|---|---|---|---|---|---|
+| ✅ | concatenation-of-array | NC | Arrays | Easy | Array Traversal | 2026-05-08 | Rev 0 |
+| ✅ | contains-duplicate | NC | Arrays & Hashing | Easy | HashSet Lookup | 2026-05-09 | Rev 0 |
+
 
 
 ---
