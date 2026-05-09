@@ -85,7 +85,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 
 | Topic | Solved | Total |
 |---|---|---|
-| Arrays & Hashing | 1 | 9 |
+| Arrays & Hashing | 2 | 9 |
 | Two Pointers | 0 | 5 |
 | Sliding Window | 0 | 6 |
 | Stack | 0 | 6 |
@@ -108,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Status | Problem | Topic | Difficulty | Pattern / Concept | Date Solved |
 |---|---|---|---|---|---|
 | ✅ | concatenation-of-array | Arrays | Easy | Array Traversal | 2026-05-08 |
+| ✅ | contains-duplicate | Arrays | Easy | HashSet| 2026-05-09 |
 
 
 ---
